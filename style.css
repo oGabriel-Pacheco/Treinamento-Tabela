@@ -1,0 +1,38 @@
+table td, table th {
+    border: 1px solid #ccc;
+    padding: 5px;
+    text-align: left;
+    
+}
+table {
+     border-collapse: collapse; width: 100%;
+      /* Serve para juntar a borda */
+      height: 150px; /* altura*/
+      width: 60%; /*largura*/
+     margin-left: 250px;
+     
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+table caption {
+    caption-side: top;
+    margin-bottom: 5px;
+    font-style: italic;
+}
+thead {
+    background-color: #BB86FC;
+}
+td {
+    background-color:  #424250
+    ;
+}
+h3 {
+    margin-left: 620px;
+}
+.tabela2 {
+    background-color: #00C4B4;
+}
+
